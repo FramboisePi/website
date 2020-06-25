@@ -3,6 +3,8 @@ title: Frequently Asked Questions
 lang: en-US
 ---
 
+<ExtensionsList/>
+
 # Frequently Asked Questions
 If you have questions about the app and our plans or need help with installing the app, try checking our guides and faq entries. If you haven't found what you needed, feel free to join the Discord and ask.
 
