@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /uwu/
+Sitemap: https:/paperback.moe/sitemap.xml
+Host: https://paperback.moe
